@@ -1,4 +1,15 @@
-head h3{
+header h3{
+    font-size: 30;
     background-color: blue;
     color: red;
+}
+header h1{
+     font-size: 40;
+    background-color: red;
+    color: blue;
+}
+footer h2{
+    font-size: 20;
+    background-color: red;
+    color: blue;
 }
